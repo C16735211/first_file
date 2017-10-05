@@ -8,6 +8,7 @@ int main()
   printf("Hello World\n");
   sum = x * y;
   printf("The sum is %d", sum);
+  printf("Welcome to GitHub\n");
   
   
   return 0;
