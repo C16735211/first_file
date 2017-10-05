@@ -2,7 +2,12 @@
 
 int main()
 {
+  int x = 5;
+  int y = 10;
+  int sum = 0;
   printf("Hello World\n");
+  sum = x * y;
+  printf("The sum is %d", sum);
   
   
   return 0;
